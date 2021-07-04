@@ -40,7 +40,7 @@ _I'm interested in Web Developers!_
 [🚃 Railway fall detection and risk management systems/철도 추락 감지 및 위험 관리 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Python, Android, Java, Firebase, Edge Computing, Ubuntu, OpenCV, YOLOv3, Jetson nano) <br>
 
 #### [2021] <br>
->[👀 Drowsiness driving detection and warning system/졸음운전 감지 및 경고 시스템](https://github.com/Yangheerim/SleepDetection) (OpenCV, MQTT, RasberryPi, Ubuntu, C++, Python) <br>
+>[👀 Drowsiness driving detection and warning system/졸음운전 감지 및 경고 시스템](https://github.com/Yangheerim/Sleep-Detection) (OpenCV, MQTT, RasberryPi, Ubuntu, C++, Python) <br>
 
 #### [Current] <br>
 >[💙 Department information sharing and communication web page/AI-소프트웨어 학부 정보 공유 및 소통 웹페이지](https://github.com/JunHeon-Ch/AISW_Web_Community) (React, Javascript, JSX, CSS, Spring Boot, Mysql, Docker) <br>
