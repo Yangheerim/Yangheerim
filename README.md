@@ -35,7 +35,7 @@ _I'm interested in Web Developers!_
 >[🕹 Game that guessing the word associated with the picture/그림 보고 연상되는 단어 맞추기 게임](https://github.com/Yangheerim/TINC) (Socket programming, Network, Java)
 
 #### [2020] <br>
->[🧑‍🤝‍🧑 Android app to help team projects/팀 프로젝트를 도와주는 안드로이드 앱](https://github.com/hammii/TeamToo) (Android, Kotlin, Firebase) <br>
+>[🧑‍🤝‍🧑 Android app to help team projects/팀 프로젝트를 도와주는 안드로이드 앱](https://github.com/Yangheerim/TeamToo) (Android, Kotlin, Firebase) <br>
 [🚕 Driver's license test practice game/운전면허 기능시험 연습 게임](https://github.com/JunHeon-Ch/Driver_License_Simulation) (Computer Graphics, WebGL, Javascript) <br>
 [🚃 Railway fall detection and risk management systems/철도 추락 감지 및 위험 관리 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Python, Android, Java, Firebase, Edge Computing, Ubuntu, OpenCV, YOLOv3, Jetson nano) <br>
 
