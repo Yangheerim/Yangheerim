@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 👋 Who am I?
 
 #### Heerim, Yang 🙍‍♀️ <br>
-A student of dept.Software at Gachon Univ (4th grade).<br><br>
+A student of dept.Software (4th grade).<br><br>
 _I'm interested in Web Developers!_
 
 <a href="mailto:yanghl1998@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
