@@ -46,6 +46,13 @@ _I'm interested in Web Developers!_
 >[💙 Department information sharing and communication web page/AI-소프트웨어 학부 정보 공유 및 소통 웹페이지](https://github.com/JunHeon-Ch/AISW_Web_Community) (React, Javascript, JSX, CSS, Spring Boot, Mysql, Docker) <br>
 <br>
 
+
+### 📚 TIL (Today I Learn)
+- [Algorithm Study](https://github.com/Yangheerim/Algorithm)<br>
+- [CS Study](https://github.com/haewon-park/csStudy) <br>
+
+ <br>
+
 ### 🔧 Technology Stack
 #### I can use!
 
