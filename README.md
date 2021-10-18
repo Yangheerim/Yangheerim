@@ -32,7 +32,7 @@ _I'm interested in Web Developers!_
 ### 🌱 Projects
 #### History of my projects
 #### [2018] <br>
->[🕹 Game that guessing the word associated with the picture/그림 보고 연상되는 단어 맞추기 게임](https://github.com/Yangheerim/TINC) (Socket programming, Network, Java)
+>[🕹 Game that guessing the word associated with the picture/그림 보고 연상되는 단어 맞추기 게임](https://github.com/Yangheerim/TINC) (Socket programming, Java)
 
 #### [2020] <br>
 >[🤝 Android app to help team projects/팀 프로젝트를 도와주는 안드로이드 앱](https://github.com/Yangheerim/TeamToo) (Android, Kotlin, Firebase) <br>
@@ -40,10 +40,10 @@ _I'm interested in Web Developers!_
 [🚃 Railway fall detection and risk management systems/철도 추락 감지 및 위험 관리 시스템](https://github.com/Yangheerim/Rail-Fall-Prevention-System) (Python, Android, Java, Firebase, Edge Computing, Ubuntu, OpenCV, YOLOv3, Jetson nano) <br>
 
 #### [2021] <br>
->[👀 Drowsiness driving detection and warning system/졸음운전 감지 및 경고 시스템](https://github.com/Yangheerim/Sleep-Detection) (OpenCV, MQTT, RasberryPi, Ubuntu, C++, Python) <br>
+>[👀 Drowsiness driving detection and warning system/졸음운전 감지 및 경고 시스템](https://github.com/Yangheerim/Sleep-Detection) (dlib, MQTT, RasberryPi, Ubuntu, C++, Python) <br>
 
 #### [Current] <br>
->[💙 Department information sharing and communication web page/AI-소프트웨어 학부 정보 공유 및 소통 웹페이지](https://github.com/JunHeon-Ch/AISW_Web_Community) (React, Javascript, JSX, CSS, Spring Boot, Mysql, Docker) <br>
+>[💙 Department information sharing and communication web page/AI-소프트웨어 학부 정보 공유 및 소통 웹페이지](https://github.com/JunHeon-Ch/AISW_Web_Community) (React, Javascript, JSX, CSS, Spring Boot, Mysql, Docker, AWS) <br>
 <br>
 
 
